@@ -11,9 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# * M.S. in Jekyll, GitHub University, 2014
+* Nanchang University, 2022 (expected)
+  * B.Econ. in Financial Mathematics ()
+  * B.Eng. in Computer Science and Technology (Mathematics, physics, chemistry, and biology)
+
+* The Attached Middle School To Jiangxi Normal University, 2018
+  * Science Class (Mathematics, physics, chemistry, and biology)
 
 Work experience
 ======
