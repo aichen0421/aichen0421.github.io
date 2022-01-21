@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chen Ai (艾陈 in Chinese)"
+title                    : "CHEN AI (艾陈 in Chinese)"
 title_separator          : "-"
 name                     : &name "Chen Ai"
 description              : &description "A senior student at Nanchang University"
@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Chen Ai"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "A future financial mathematician with love for stochasticity"
+  location         : "Nanchang, Jiangxi, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "aichen@email.ncu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
