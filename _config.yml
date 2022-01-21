@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CHEN AI (艾陈 in Chinese)"
+title                    : "CHEN AI"
 title_separator          : "-"
-name                     : &name "Chen Ai"
+name                     : &name "Chen Ai (艾陈 in Chinese)"
 description              : &description "A senior student at Nanchang University"
 url                      : https://aichen0421.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
