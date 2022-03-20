@@ -2,7 +2,7 @@
 title: "Mispricing and trading strategies in Chicago Board Options Exchange"
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/Mispricing and trading strategies in Chicago Board Options Exchange
 venue: "Xi'an"
 date: 2020-12-26
 location: "China"
