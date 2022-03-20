@@ -1,7 +1,7 @@
 ---
 title: "Mispricing and trading strategies in Chicago Board Options Exchange"
 collection: talks
-type: "Conference proceedings talk"
+type: "Conference proceedings"
 permalink: /talks/Mispricing and trading strategies in Chicago Board Options Exchange
 venue: "Xi'an"
 date: 2020-12-26
