@@ -1,7 +1,7 @@
 ---
 title: 'Sample Blog Post 1'
 date: 2022-03-20
-permalink: /posts/Sample Blog Post 1/
+permalink: /
 tags:
   - cool posts
   - category1
