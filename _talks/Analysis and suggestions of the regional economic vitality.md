@@ -1,8 +1,8 @@
 ---
-title: "Analysis and Suggestions of the Regional Economic Vitality"
+title: "Analysis and suggestions of the regional economic vitality"
 collection: talks
-type: "Conference proceedings talk"
-permalink: /talks/Analysis and Suggestions of the Regional Economic Vitality
+type: "Conference proceedings"
+permalink: /talks/Analysis and suggestions of the regional economic vitality
 venue: "Hangzhou"
 date: 2020-04-19
 location: "China"
