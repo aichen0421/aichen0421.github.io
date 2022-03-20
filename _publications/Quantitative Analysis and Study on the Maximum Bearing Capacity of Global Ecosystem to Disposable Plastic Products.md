@@ -10,6 +10,6 @@ citation: 'Ai, C., & Xie, Y. (2021). Quantitative Analysis and Study on the Maxi
 ---
 This paper is about a series of models establishing to study the bearing capacity of global ecosystem to disposable plastic products. The main technical methods used are K-means, multivariate nonlinear regression, Nemelo index, Bonferroni operator, and fuzzy mathematics.
 
-[Download paper here](http://aichen0421.github.io/files/Quantitative Analysis and Study on the Maximum Bearing Capacity of Global Ecosystem to Disposable Plastic Products.pdf)
+[Download paper here](http://aichen0421.github.io/files/Quantitative Analysis and Study on the Maximum Bearing Capacity of Global Ecosystem to Disposable Plastic Products.pdf "Download PDF")
 
 Recommended citation: Ai, C., & Xie, Y. (2021). Quantitative Analysis and Study on the Maximum Bearing Capacity of Global Ecosystem to Disposable Plastic Products. Iranian Journal of Science and Technology, Transactions of Civil Engineering, 1-7.
