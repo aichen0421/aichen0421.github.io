@@ -51,6 +51,17 @@ Skills
   * English (Fluent)
   * Sub-skill 3
 * Skill 3
+  
+Awards
+======
+* Lan-Qiao Cup Nantianl Software and Information Technology Professional Competition, 2021
+  * First Prize in Python group (state-level)
+* Dawan District Financial Mathematical Modeling Competition, 2021
+  * First Prize in Asset Pricing group (top 2% in state-level)
+* COMAP's Interdisciplinary Contest in Modeling, 2020
+  * Finalist in Environmental Science group (top 0.17% in international-level)
+* The Methematics Competition of Chinese College Students, 2019
+  * Second Prize (state-level)
 
 Publications
 ======
@@ -69,7 +80,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
