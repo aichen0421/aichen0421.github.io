@@ -10,6 +10,6 @@ citation: 'He, H., Guo, X., Yu, J., Ai, C., & Shi, S. (2022). Overcoming the ina
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://aichen0421.github.io/files/Overcoming the inadaptability of sparse group lasso for.pdf "Download PDF")
+[Download PDF here](http://aichen0421.github.io/files/Overcoming the inadaptability of sparse group lasso for.pdf)
 
 Recommended citation: He, H., Guo, X., Yu, J., Ai, C., & Shi, S. (2022). Overcoming the inadaptability of sparse group lasso for data with various group structures by stacking. Bioinformatics, 38(6), 1542-1549.
