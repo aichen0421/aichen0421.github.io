@@ -11,37 +11,42 @@ redirect_from:
 
 Education
 ======
-* Department, GitHub University, 2014
-  * M.S.
+* Department, GitHub University (还不确定)
+  * M.S. in Financial Mathematics， 2023
 
 * School of Mathematics and Computer Sciences, Nanchang University
   * B.Econ. in Financial Mathematics, 2022
+    
+    
     A exmaple
   * B.Eng. in Computer Science and Technology, 2021
 
+    Thesis
+
 * Class of Sciences, The Attached Middle School To Jiangxi Normal University
-  * Distinction in Mathematics and Physics, 2018
-  * Merit in Biology and Geography, 2018
+  * Specialized in Mathematics and Physics, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2022: Research Assistant
+  * Numerical Simulation and High-Performance Computing Laboratory, Nanchang University
+  * Duties included: Completing literature reviews, coding for empirical results, and summarizing findings to support senior research staff in the lab
+  * Supervisor: Professor Shaoping Shi
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2021: Teaching Assistant
+  * Department of Financial Mathematics, Nanchang University
+  * Duties included: Tutoring and assisting students in the completion of assignments
+  * Lecturer: Lidan Liao
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Programming Languages
+  * Python (Intermediate)
+  * 以后再加
+* Natural Languages
+  * Mandarin Chinese (Native)
+  * English (Fluent)
+  * Sub-skill 3
 * Skill 3
 
 Publications
