@@ -12,30 +12,32 @@ redirect_from:
 Education
 ======
 * Department of Mathematics, Columbia University
-  * M.A. in Mathematics with a Specialization in the Mathematics of Finance, 2023
+  * M.A. in *Mathematics with a Specialization in the Mathematics of Finance, expected in 2023*
 
 * School of Mathematics and Computer Sciences, Nanchang University
-  * B.Econ. in Financial Mathematics, 2022  
-    GPA: 3.75/4.0; Major GPA: 3.91/4.0; Ranking:3/38  
-    Thesis: Improvements and Applications of LASSO-Derived Algorithms; Supervisor: Professor Shaoping Shi
-  * B.Eng. in Computer Science and Technology, 2021  
-    GPA: 3.65/4.0; Ranking:2/61      
-    Thesis: Applications of regularization method in cancer genome data mining; Supervisor: Associate Professor Haiwen Yu
+  * B.Econ. in *Financial Mathematics, 2022*  
+    GPA: *3.75/4.0*; Major GPA: *3.91/4.0*; Ranking: *3/38*  
+    Thesis: *Improvements and Applications of LASSO-Derived Algorithms*  
+    Supervisor: *Professor Shaoping Shi*
+  * B.Eng. in *Computer Science and Technology, 2021*  
+    GPA: *3.65/4.0*; Ranking: *2/61*      
+    Thesis: *Applications of regularization methods in cancer genome data mining*  
+    Supervisor: *Professor Haiwen Yu*
 
 * Class of Sciences, The Attached Middle School To Jiangxi Normal University
-  * Specialized in Mathematics and Physics, 2018
+  * Specialized in *Mathematics and Physics, 2018*
 
 Work experience
 ======
 * Spring 2022: Research Assistant
   * Numerical Simulation and High-Performance Computing Laboratory, Nanchang University
-  * Duties included: Completing literature reviews, coding for empirical results, and summarizing findings to support senior research staff in the lab
-  * Supervisor: Professor Shaoping Shi
+  * Duties included: *Completing literature reviews, coding for empirical results, and summarizing findings to support senior research staff in the lab*
+  * Supervisor: *Professor Shaoping Shi*
 
 * Fall 2021: Teaching Assistant
   * Department of Financial Mathematics, Nanchang University
-  * Duties included: Tutoring and assisting students in the completion of assignments
-  * Lecturer: Lidan Liao
+  * Duties included: *Tutoring and assisting students in the completion of assignments*
+  * Lecturer: *Lidan Liao*
   
 Skills
 ======
@@ -51,13 +53,13 @@ Skills
 Awards
 ======
 * Lan-Qiao Cup Nantianl Software and Information Technology Professional Competition, 2021
-  * First Prize in Python group (state-level)
+  * First Prize in Python group (*state-level*)
 * Dawan District Financial Mathematical Modeling Competition, 2021
-  * First Prize in Asset Pricing group (top 2% in state-level)
+  * First Prize in Asset Pricing group (*top 2% in state-level*)
 * COMAP's Interdisciplinary Contest in Modeling, 2020
-  * Finalist in Environmental Science group (top 0.17% in international-level)
+  * Finalist in Environmental Science group (*top 0.17% in international-level*)
 * The Methematics Competition of Chinese College Students, 2019
-  * Second Prize (state-level)
+  * Second Prize (*state-level*)
 
 Publications
 ======
