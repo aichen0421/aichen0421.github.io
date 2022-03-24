@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Chen Ai's current research interests are hedge fund and stochastic methods.
+
 Education
 ======
 * Department of Mathematics, Columbia University
@@ -16,13 +18,11 @@ Education
 
 * School of Mathematics and Computer Sciences, Nanchang University
   * B.Econ. in *Financial Mathematics, 2022*  
-    GPA: *3.75/4.0*; Major GPA: *3.91/4.0*; Ranking: *3/38*  
     Thesis: *Improvements and Applications of LASSO-Derived Algorithms*  
-    Supervisor: *Professor Shaoping Shi*
-  * B.Eng. in *Computer Science and Technology, 2021*  
-    GPA: *3.65/4.0*; Ranking: *2/61*      
+    Supervisor: Professor *Shaoping Shi*
+  * B.Eng. in *Computer Science and Technology, 2021*   
     Thesis: *Applications of regularization methods in cancer genome data mining*  
-    Supervisor: *Professor Haiwen Yu*
+    Supervisor: Professor *Haiwen Yu*
 
 * Class of Sciences, The Attached Middle School To Jiangxi Normal University
   * Specialized in *Mathematics and Physics, 2018*
