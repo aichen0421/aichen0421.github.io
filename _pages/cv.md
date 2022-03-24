@@ -11,19 +11,15 @@ redirect_from:
 
 Education
 ======
-* Department, GitHub University (还不确定)
-  * M.S. in Financial Mathematics， 2023
+* Department of Mathematics, Columbia University
+  * M.A. in Mathematics with a Specialization in the Mathematics of Finance, 2023
 
 * School of Mathematics and Computer Sciences, Nanchang University
-  * B.Econ. in Financial Mathematics, 2022
-    
-    GPA: 3.75/4.0; Major GPA: 3.91/4.0; Ranking:3/38
-    
+  * B.Econ. in Financial Mathematics, 2022  
+    GPA: 3.75/4.0; Major GPA: 3.91/4.0; Ranking:3/38  
     Thesis: Improvements and Applications of LASSO-Derived Algorithms; Supervisor: Professor Shaoping Shi
-  * B.Eng. in Computer Science and Technology, 2021
-
-    GPA: 3.65/4.0; Ranking:2/61
-    
+  * B.Eng. in Computer Science and Technology, 2021  
+    GPA: 3.65/4.0; Ranking:2/61      
     Thesis: Applications of regularization method in cancer genome data mining; Supervisor: Associate Professor Haiwen Yu
 
 * Class of Sciences, The Attached Middle School To Jiangxi Normal University
