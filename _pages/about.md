@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "ABOUT ME"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is Chen Ai's homepage on the web!
+Chen Ai is a Master student at Columbia University's Graduate School of Arts and Sciences, majoring in Mathematics with a Specialization in the Mathematics of Finance. Chen holds a B.Econ. in Financial Mathematics and a B.Eng. in Computer Science and Technology from Nanchang University. 
 
-A data-driven personal website
-======
-I haven't figured out what to write yet.
+Chen Ai's current research addresses ...
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). 
+Other ongoing projects address ...
